@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coap": "^0.23.1",
+    "node-coap-client": "^1.0.4"
+  }
+}

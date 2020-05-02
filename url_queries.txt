@@ -1,0 +1,4 @@
+/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/maximumTemperature
+/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/currentTemperature
+/things/3S7PM0CP4BD/120636
+/things

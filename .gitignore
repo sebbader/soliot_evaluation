@@ -1,0 +1,7 @@
+.idea
+.vscode
+.ntsh
+env
+package-lock.json
+node_modules/
+*.drawio

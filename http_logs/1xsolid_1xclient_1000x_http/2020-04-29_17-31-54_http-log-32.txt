@@ -1,0 +1,11 @@
+code, time total, length, date, time, uri, method, serverType
+200, 192, 655, 29.04.2020, 17:31:52, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/maximumTemperature, get, solid
+200, 176, 699, 29.04.2020, 17:31:52, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/currentTemperature, get, solid
+200, 412, 3818, 29.04.2020, 17:31:52, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z, get, solid
+200, 447, 1343, 29.04.2020, 17:31:53, https://3.127.247.0:8443/things, get, solid
+201, 349, 7, 29.04.2020, 17:31:53, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/, post, solid
+200, 169, 574, 29.04.2020, 17:31:53, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/unsafeTest.ttl, get, solid
+200, 231, 2, 29.04.2020, 17:31:54, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/unsafeTest.ttl, delete, solid
+201, 330, 7, 29.04.2020, 17:31:54, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/unsafeTest, put, solid
+200, 188, 574, 29.04.2020, 17:31:54, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/unsafeTest, get, solid
+200, 237, 2, 29.04.2020, 17:31:54, https://3.127.247.0:8443/things/3S7PM0CP4BD/120636/2018-10-24T01-22-30-866Z/unsafeTest, delete, solid
